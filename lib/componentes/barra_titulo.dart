@@ -35,6 +35,9 @@ class BarraTitulo extends StatelessWidget implements PreferredSizeWidget {
           ),
         ],
       ),
+      actions: [
+        IconButton(onPressed: () => auth.logout(), icon: const  Icon(Icons.logout))
+      ],
     );
   }
 

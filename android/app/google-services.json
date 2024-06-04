@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465914414608",
+    "project_id": "truquin-fe",
+    "storage_bucket": "truquin-fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465914414608:android:650c3f57618524bdffac95",
+        "android_client_info": {
+          "package_name": "com.example.truco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0MEHzDXEn20wGHN0WOOF42lZIOpRMwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

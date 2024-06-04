@@ -48,28 +48,32 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyD5DpyRKN3ABB0U5q6yyOKwRxrE_cjOaiQ',
-    appId: '1:465914414608:web:50278a1ccbd3edc1ffac95',
+    appId: '1:465914414608:web:81e048fc4378f7deffac95',
     messagingSenderId: '465914414608',
     projectId: 'truquin-fe',
     authDomain: 'truquin-fe.firebaseapp.com',
+    databaseURL: 'https://truquin-fe-default-rtdb.firebaseio.com',
     storageBucket: 'truquin-fe.appspot.com',
-    measurementId: 'G-EM320LDPL2',
+    measurementId: 'G-BF77DFGFSV',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCA0MEHzDXEn20wGHN0WOOF42lZIOpRMwI',
-    appId: '1:465914414608:android:650c3f57618524bdffac95',
+    appId: '1:465914414608:android:e5191d7aeac29c78ffac95',
     messagingSenderId: '465914414608',
     projectId: 'truquin-fe',
+    databaseURL: 'https://truquin-fe-default-rtdb.firebaseio.com',
     storageBucket: 'truquin-fe.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDjgrHE73QBCV-A_I-iK1ljz-30UJRblcs',
-    appId: '1:465914414608:ios:1238fde390a4a215ffac95',
+    appId: '1:465914414608:ios:00af62faeeb3e78cffac95',
     messagingSenderId: '465914414608',
     projectId: 'truquin-fe',
+    databaseURL: 'https://truquin-fe-default-rtdb.firebaseio.com',
     storageBucket: 'truquin-fe.appspot.com',
     iosBundleId: 'com.example.truco',
   );
+
 }

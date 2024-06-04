@@ -1,13 +1,14 @@
 {
   "project_info": {
     "project_number": "465914414608",
+    "firebase_url": "https://truquin-fe-default-rtdb.firebaseio.com",
     "project_id": "truquin-fe",
     "storage_bucket": "truquin-fe.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:465914414608:android:650c3f57618524bdffac95",
+        "mobilesdk_app_id": "1:465914414608:android:e5191d7aeac29c78ffac95",
         "android_client_info": {
           "package_name": "com.example.truco"
         }

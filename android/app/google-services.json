@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "835285996685",
+    "firebase_url": "https://eutruco-aea6b-default-rtdb.firebaseio.com",
+    "project_id": "eutruco-aea6b",
+    "storage_bucket": "eutruco-aea6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835285996685:android:0853b0116a7b0c1871bec4",
+        "android_client_info": {
+          "package_name": "com.example.eu_truco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvB8YhOf2tHUWp3bmsV424AZvPvp6PGAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

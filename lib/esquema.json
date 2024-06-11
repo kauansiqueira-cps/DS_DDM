@@ -1,0 +1,49 @@
+{
+    "salas": {
+        "x12324": {
+            "nome": "Sala 1",
+            "senha": "xqwe",
+            "limite_jogadores": 4,
+            "status": "JOGANDO",
+            "jogadores": [
+                {
+                    "nick": "Jogador1"
+                },
+                {
+                    "nick": "Jogador2"
+                },
+                {
+                    "nick": "Jogador3"
+                },
+                {
+                    "nick": "Jogador4"
+                }
+            ],
+            "timeA": [
+                {
+                    "nick": "Jogador1"
+                },
+                {
+                    "nick": "Jogador2"
+                }
+            ],
+            "timeB": [
+                {
+                    "nick": "Jogador3"
+                },
+                {
+                    "nick": "Jogador4"
+                }
+            ],
+            "pontuacaoTimeA": 0,
+            "pontuacaoTimeB": 0,        
+            "rodadas": [
+                {
+                    "primeira": "timeA",
+                    "segunda": "aguardando",
+                    "terceira": "aguardando"
+                }
+            ]
+        }
+    }
+}
